@@ -11,4 +11,7 @@ console.log('Last Name: ',me.lastName);
 console.log('Age: ', me.age);
 console.log('School: ',me.school);
 console.log('State: ', me.state);
-console.log('Favorite Food: ',me.favFood);
+console.log('Favorite Food: ',me.favFood);\
+
+var subjects = ['Math', 'Science', 'English']
+let family = [{friend: 'Gabe'}, {Sister: 'Mallory'}]
